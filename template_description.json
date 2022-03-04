@@ -20,5 +20,6 @@
     "https://doi.org/10.5281/zenodo.3555555",
     "https://doi.org/10.1038/s41598-020-63965-x"
   ],
+  "Species": "Rattus norvegicus",
   "TemplateFlowVersion": "1.0.0"
 }
